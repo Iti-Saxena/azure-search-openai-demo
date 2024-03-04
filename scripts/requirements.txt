@@ -126,11 +126,11 @@ pyjwt[crypto]==2.8.0
     # via
     #   msal
     #   pyjwt
-pymupdf==1.23.25
+pymupdf==1.23.26
     # via -r scripts/requirements.in
 pymupdfb==1.23.22
     # via pymupdf
-pypdf==4.0.2
+pypdf==4.1.0
     # via -r scripts/requirements.in
 python-dateutil==2.8.2
     # via pandas
